@@ -1,0 +1,34 @@
+month: April
+year: 2010
+day: 15
+topic: WTF!
+speaker: You!
+meeting_link: http://indyalt.net/cms/meeting/april-2010/wtf-lightning-talks-show-and-tell-about-your-blunders 
+synopsis: |
+  WTF is a WTF lightning talk?
+  This is an opportunity for you to brag/sob about your latest and greatest/worst snafus (and hopefully a lesson or two you learned from it).
+   
+  Groundrules:
+    - Have Fun.
+    - Before you rag on your co-workers/boss/significant other, rag on yourself first.
+    - You get 8 minutes.  (We'll give you a 'warning' at 7 minutes)
+    - If it takes longer than 2 minutes to get set up (war paint, projector/slides, suspenders) you've gotta sing Imma Be a Little Teapot.
+    - Be Awesome (or un-awesome, whichever floats your boat).
+
+  Be ready for a fun time.  And if this degenerates into an awkward Jr. High after school dance (you know, the kind where everyone is a wall-flower), we may have an ad-hoc something else happen too.
+
+location_long: |
+  (South of Keystone Mall)
+  Easy Street Realty
+  8200 Haverstick Road
+  Suite 110 (just left of the main lobby)
+  Indianapolis, IN, 46240
+  http://maps.google.com/?q=8200+Haverstick+Road%2C+Indianapolis%2C+IN%2C+46240%2C+us+%28Easy+Street+Realty%29 
+links:
+  - link:  http://www.vimeo.com/10755891 
+    title: The European Virtual Alt.Net Group's discussion on Software Craftsmanship with Uncle Bob 
+  - link: http://blog.objectmentor.com/articles/2010/04/06/20-more-bugs-or-20-less-features 
+    title: 20% More Bugs? or 20% Less Features?  A quick note from Uncle Bob on tradeoffs between quality and schedule. 
+
+  - link: http://tirania.org/blog/archive/2010/Apr-05-1.html 
+    title: MonoTools for Visual Studio - MonoTools allows you to run your .NET app under a local Mono (from Visual Studio), a remote Mono (e.g. Linux), create a linux package for deployment, create a SUSE powered appliance for deployment. 
