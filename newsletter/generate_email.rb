@@ -1,6 +1,5 @@
 require 'erb'
 require 'yamlconfig.rb'
-require 'active_support'
 
 class Newsletter
   include YAMLConfig
@@ -10,6 +9,7 @@ class Newsletter
 
   def write()
     template = <<END_EMAIL
+SUBJECT: <%= @subject %>
 ***** Indy ALT.NET - <%= "#{@month} #{@year}" %> Newsletter *****
 
 ** <%= @month %> Meeting Info **
