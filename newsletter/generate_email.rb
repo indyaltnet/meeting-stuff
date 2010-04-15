@@ -37,6 +37,11 @@ Pizza and networking will begin around 5:15 with the technology discussion begin
 <%= link["link"] %>
 
 <% end %>
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
 END_EMAIL
 
     erb = ERB.new(template, 0, "%<>")
