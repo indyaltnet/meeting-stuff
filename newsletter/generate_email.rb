@@ -49,7 +49,11 @@ END_EMAIL
   end
 end
 
-exit if ARGV.length < 1
+if ARGV.length < 1
+  puts "usage: ruby #{__FILE__} whatever.yml"
+  puts ""
+  exit
+end
 
 n = Newsletter.new
 n.configure(ARGV[0])
