@@ -49,6 +49,8 @@ END_EMAIL
   end
 end
 
+exit if ARGV.length < 1
+
 n = Newsletter.new
-n.configure('april.yml')
+n.configure(ARGV[0])
 n.write()
