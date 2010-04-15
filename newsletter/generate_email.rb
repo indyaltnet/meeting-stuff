@@ -13,8 +13,8 @@ SUBJECT: <%= @subject %>
 ***** Indy ALT.NET - <%= "#{@month} #{@year}" %> Newsletter *****
 
 ** <%= @month %> Meeting Info **
-- Location: <%= @month %>
-- Date: Thursday, <%= "#{@month}, #{@day}  #{@year}" %> 
+- Location: <%= @location_short %>
+- Date: Thursday, <%= "#{@month} #{@day},  #{@year}" %> 
 - Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
 - Topic: <%= @topic %>
 - Speakers: <%= @speaker %>
