@@ -1,0 +1,47 @@
+SUBJECT: Thursday (Tomorrow) - "WTF Lightning Talks"
+***** Indy ALT.NET - May 2010 Newsletter *****
+
+** May Meeting Info **
+- Location: May
+- Date: Thursday, May, 20  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: RIA Smackdown! Silverlight, Flex, jQuery
+- Speakers: Mike Brown (@browniepoints), Alex Conner (@gk4r), Dave Mathew (@mathewda)
+- More information:
+http://indyalt.net/cms/meeting/may-2010/ria-smackdown-silverlight-flex-jquery
+It's our 3rd birthday, and we're having an all out RIA smackdown.
+  - Not sure which platform to pick?
+  - Not sure the capabilities of each?
+  - Want to see a similar app developed in Silverlight, Flex, and jQuery?
+  - Want to make fun of the JavaFX dudes (and dudettes!)?
+
+Did I mention it was our birthday?
+The terrible two's are over, and we're going to give out a ton of swag to kick off our third year:
+  - TONS of books (literally, my arms are sore)
+  - Windows 7
+  - JetBrains license
+  - TekPub videos
+  - Telerik and Infragistics licenses
+  - Laptops
+  - no wait, nix the laptops
+  - more
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II
+11711 N. Meridian Street - Room
+Carmel, IN, 46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+Some cool .NET projects that are on github (not necessarily git related).  MassTransit, Rest#, and gitextensions to name a few.
+http://rebase.github.com/42.html
+
+Some awesome videos on some .NET topics near and dear to our Alt.Net hearts.
+http://skillsmatter.com/go/open-source-dot-net
+
+These guys are one of our newest sponsors.  It's a site full of great pay-for videos that are for targeted learning.  Rob Conery (of Subsonic fame) and James Avery (he's kind of famous for being famous?) put this site together to help out folks like us.  They've got some great content up there.
+http://www.tekpub.com/
