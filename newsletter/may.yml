@@ -29,10 +29,11 @@ location_long: |
   Carmel, IN, 46032
   http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
 links:
-  - link:  http://www.vimeo.com/10755891 
-    title: The European Virtual Alt.Net Group's discussion on Software Craftsmanship with Uncle Bob 
-  - link: http://blog.objectmentor.com/articles/2010/04/06/20-more-bugs-or-20-less-features 
-    title: 20% More Bugs? or 20% Less Features?  A quick note from Uncle Bob on tradeoffs between quality and schedule. 
+  - link:  http://rebase.github.com/42.html
+    title: Some cool .NET projects that are on github (not necessarily git related).  MassTransit, Rest#, and gitextensions to name a few.
 
-  - link: http://tirania.org/blog/archive/2010/Apr-05-1.html 
-    title: MonoTools for Visual Studio - MonoTools allows you to run your .NET app under a local Mono (from Visual Studio), a remote Mono (e.g. Linux), create a linux package for deployment, create a SUSE powered appliance for deployment. 
+  - link: http://skillsmatter.com/go/open-source-dot-net
+    title: Some awesome videos on some .NET topics near and dear to our Alt.Net hearts.
+
+  - link: http://www.tekpub.com/
+    title: These guys are one of our newest sponsors.  It's a site full of great pay-for videos that are for targeted learning.  Rob Conery (of Subsonic fame) and James Avery (he's kind of famous for being famous?) put this site together to help out folks like us.  They've got some great content up there.
