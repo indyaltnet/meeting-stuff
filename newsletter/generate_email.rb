@@ -45,5 +45,5 @@ END_EMAIL
 end
 
 n = Newsletter.new
-n.configure('april.yml')
+n.configure('may.yml')
 n.write()
