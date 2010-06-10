@@ -1,0 +1,42 @@
+SUBJECT: Thursday (Tomorrow) - TDD Starter Kit
+***** Indy ALT.NET - June 2010 Newsletter *****
+
+** June Meeting Info **
+- Location: 
+- Date: Thursday, June 17,  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: TDD Starter Kit - Dojo Style
+- Speakers: Phil Japikse (@skimedic) and You!
+- More information:
+http://indyalt.net/cms/meeting/june-2010/tdd-dojo
+TDD is tough and can be a bear to actually get started practicing.
+Phil Japikse (@skimedic) is going to host a Dojo for us so we can practice our TDD skills.
+Come prepared to get up and write a test or two, and feel free to bring your laptop and follow along as well.
+
+Note: Important Driving Directions!
+If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II (room 150, just past the elevators on the right)
+11711 N. Meridian Street - Room
+Carmel, IN, 46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+A cool website with some good topics of general interest for programmers.
+http://sourcemaking.com/
+
+A (somewhat?) comprehensive competency matrix for software developers, agree or not, it's at least interesting.
+http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm
+
+What motivates you?
+http://www.youtube.com/watch?v=u6XAPnuFjJc&feature=youtu.be
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
