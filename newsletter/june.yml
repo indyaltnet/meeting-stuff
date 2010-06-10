@@ -3,11 +3,15 @@ month: June
 year: 2010
 day: 17
 topic: TDD Starter Kit - Dojo Style
-speaker: 
-meeting_link: 
+speaker: Phil Japikse (@skimedic) and You!
+meeting_link: http://indyalt.net/cms/meeting/june-2010/tdd-dojo
 synopsis: |
-  line 1
-  line 2
+  TDD is tough and can be a bear to actually get started practicing.
+  Phil Japikse (@skimedic) is going to host a Dojo for us so we can practice our TDD skills.
+  Come prepared to get up and write a test or two, and feel free to bring your laptop and follow along as well.
+ 
+  Note: Important Driving Directions!
+  If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
 
 location_long: |
   Meridian Mark II (room 150, just past the elevators on the right)
@@ -21,5 +25,5 @@ links:
   - link: http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm 
     title: A (somewhat?) comprehensive competency matrix for software developers, agree or not, it's at least interesting.
 
-  - link: 
-    title: 
+  - link: http://www.youtube.com/watch?v=u6XAPnuFjJc&feature=youtu.be
+    title: What motivates you?
