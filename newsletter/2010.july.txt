@@ -1,0 +1,41 @@
+SUBJECT: Thursday (Tomorrow) - Deliberate Practice
+***** Indy ALT.NET - July 2010 Newsletter *****
+
+** July Meeting Info **
+- Location: 
+- Date: Thursday, July 15,  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: Deliberate Practice
+- Speakers: Brian Ball (@myotherpants)
+- More information:
+http://indyalt.net/cms/meeting/july-2010/deliberate-practice
+Have you heard the old saying about, “Do you have 10 years of experience, or the one year ten times over.”  
+Practice will help ensure that you make the most out of your time.  Understand the theory of practice and how to build it in to your daily activities.
+
+Note: Important Driving Directions!
+If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II (room 150, just past the elevators on the right)
+11711 N. Meridian Street - Room
+Carmel, IN, 46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+Marry Poppendieck talks about deliberate practice in software development.  An excellent presentation by the sage Mary.
+http://www.infoq.com/presentations/poppendieck-deliberate-practice-in-software-development
+
+Michael Feathers tempts us to try to write bad code, and reflect on why we can't!
+http://michaelfeathers.typepad.com/michael_feathers_blog/2010/07/the-bad-code-kata.html
+
+Remember TDD from last month?  Keep going, it's worth it!
+http://blogs.agilefaqs.com/2010/06/11/mastering-tdd-with-deliberate-practice/
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
