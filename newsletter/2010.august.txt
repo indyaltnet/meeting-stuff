@@ -1,0 +1,57 @@
+SUBJECT: Thursday (Tomorrow) - Teams, A Fishbowl
+***** Indy ALT.NET - August 2010 Newsletter *****
+
+** August Meeting Info **
+- Location: 
+- Date: Thursday, August 19,  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: Teams, A Fishbowl
+- Speakers: You
+- More information:
+http://indyalt.net/cms/meeting/august-2010/teams-fishbowl
+Love your team?  Hate your team?  Wish you had a team?
+I'm a little verklempt... talk amongst yourselves.  I'll give you a topic (or several):
+
+    * Team Dynamics (why your team is awesome/why your team is teh suxorz)
+          o Consulting Teams vs Perm. Teams vs ad hoc Teams
+          o Distributed Teams
+    * Self/Team Interation -
+          o  Do I bother my teammates too much?
+          o Do they bother me too much?
+          o Why does no-one get anything done?
+          o How much interruption is appropriate?
+    * Oddly Shaped Teams
+          o What do you do when you don't have a tester?
+          o I'm on a one man team... help!
+    * Jump-starting Dead-weight - How?
+
+Pizza and networking starts at 5:30, presentation will start around 6.
+
+
+Note: Important Driving Directions!
+If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II (room 150, just past the elevators on the right)
+11711 N. Meridian Street - Room
+Carmel, IN, 46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+Jimmy leaves Microsoft, and IronRuby takes the back burner.
+http://blog.jimmy.schementi.com/2010/08/start-spreading-news-future-of-jimmy.html
+
+Rob Conery has been at it lately with some Ruby/dynamic and C#/static commentary, check out his latest articles for some great (slightly biased) insights.
+http://blog.wekeroad.com
+
+Use bundler and gems (from the rails/ruby world) to manage your .NET dependencies with noodle.
+http://mattonrails.wordpress.com/2010/08/11/noodle-0-1-0/
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
