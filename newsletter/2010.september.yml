@@ -4,7 +4,7 @@ year: 2010
 day: 16
 topic: MongoDB
 speaker: Jon Fuller (@jon_fuller)
-meeting_link: http://indyalt.net/cms/meeting/september-2010/!!!!!!!
+meeting_link: http://indyalt.net/cms/meeting/september-2010/mongodb
 synopsis: |
   content here
   content here
@@ -24,5 +24,5 @@ links:
   - link: http://sheddingbikes.com/posts/1281257293.html
     title: Zed Shaw talks about programmer health problems, and how we can combat them.
 
-  - link: 
-    title: 
+  - link: http://www.infoq.com/presentations/MongoDB-at-SourceForge 
+    title: A presentation on InfoQ about why SourceForge uses MongoDB.
