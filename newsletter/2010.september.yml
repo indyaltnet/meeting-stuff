@@ -6,8 +6,7 @@ topic: MongoDB
 speaker: Jon Fuller (@jon_fuller)
 meeting_link: http://indyalt.net/cms/meeting/september-2010/mongodb
 synopsis: |
-  content here
-  content here
+  MongoDB is one of an emerging class of data stores that is part of the NoSQL movement.  It mixes the ability to have a rich data model and rich querying, with the flexibility of schema-free development and horizontal scalability of some of its NoSQL peers.  I'll give a brief overview of the system, and show some code and a couple interactive demos to demonstrate the power and simplicity of working with MongoDB.
  
   Note: Important Driving Directions!
   If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
@@ -26,3 +25,6 @@ links:
 
   - link: http://www.infoq.com/presentations/MongoDB-at-SourceForge 
     title: A presentation on InfoQ about why SourceForge uses MongoDB.
+
+  - link: http://www.pragprog.com/magazines/2010-09/the-key-to-better-software
+    title: The Key to Better Software - A PragPub article.
