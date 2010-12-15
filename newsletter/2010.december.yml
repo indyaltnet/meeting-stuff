@@ -1,0 +1,46 @@
+subject: Thursday - "Domain Specific Languages - You're Programming in the Wrong Language"
+month: December
+year: 2010
+day: 16
+topic: Domain Specific Languages
+speaker: Brian Ball (@myotherpants)
+meeting_link: http://indyalt.net/cms/meeting/december-2010/domain-specific-languages-youre-programming-in-wrong-language
+synopsis: |
+  The core of your application is not twiddling bits to make pretty pictures on a screen.  It is about doing business things with business objects.  Domain Specific Languages allow you to program in a way that make those business objects dance, like sugar plum fairies.  We'll cover how DSLs separate concerns and allow for clearer communication with stakeholders. Also covered, how to implement internal (DSLs in your code) and external (DSLs that are parsed) DSLs.
+   
+  Pizza/networking starts at 5:30 or so, talks start at 6:00.
+   
+  ALERT! CANNED FOOD DRIVE:
+  Come with at least 5 canned/boxed food items to buy an extra raffle ticket, or we'll take donations ($5 or more) to buy an additional ticket also.  We've got some great books and software to give away this month, you won't want to miss the extra opportunities for awesome prizes, and for helping those in need.
+  All proceeds and food gathered will go to Gleaner's Food Bank.
+  Gleaners specifically needs (but any non-perishables will do):
+      * Beef stew, tuna and other canned meats
+      * Macaroni & Cheese and other boxed dinners
+      * Cans of soup
+      * 100% Juices
+      * Applesauce
+      * Canned vegetables
+      * Peanut butter
+      * Canned fruits
+
+location_long: |
+  Meridian Mark II
+  11711 North Meridian Street
+  Room 150 (just past the elevators, on the right)
+  Carmel, IN  46032
+  http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+links:
+  - link: http://mikehadlow.blogspot.com/2010/12/explosion-of-alternative-web-frameworks.html 
+    title: Check out the host of (alt)ernative web frameworks out there for .NET these days!
+
+  - link: http://www.sinatrarb.com
+    title: Speaking of alternative web frameworks... have you used sinatra (ruby) yet?
+
+  - link: http://blogs.technet.com/b/markrussinovich/archive/2010/12/14/3374820.aspx
+    title: Want to change your bluescreen of death to Christmas colors?  Let Mark Russinovich (of sysinternals fame) show you the way.
+
+  - link: http://blogs.microsoft.co.il/blogs/sasha/archive/tags/Compiler/default.aspx
+    title: Sasha Goldshtein is putting together a series on writing a compiler in C#, which may be a nice segue to DSLs.
+
+  - link: http://www.gleaners.org
+    title: Last but not least, Gleaners' website.  Make a donation here, and get an extra raffle ticket at the meeting!

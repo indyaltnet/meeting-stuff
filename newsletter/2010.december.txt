@@ -1,0 +1,59 @@
+SUBJECT: Thursday - "Domain Specific Languages - You're Programming in the Wrong Language"
+***** Indy ALT.NET - December 2010 Newsletter *****
+
+** December Meeting Info **
+- Location: 
+- Date: Thursday, December 16,  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: Domain Specific Languages
+- Speakers: Brian Ball (@myotherpants)
+- More information:
+http://indyalt.net/cms/meeting/december-2010/domain-specific-languages-youre-programming-in-wrong-language
+The core of your application is not twiddling bits to make pretty pictures on a screen.  It is about doing business things with business objects.  Domain Specific Languages allow you to program in a way that make those business objects dance, like sugar plum fairies.  We'll cover how DSLs separate concerns and allow for clearer communication with stakeholders. Also covered, how to implement internal (DSLs in your code) and external (DSLs that are parsed) DSLs.
+
+Pizza/networking starts at 5:30 or so, talks start at 6:00.
+
+ALERT! CANNED FOOD DRIVE:
+Come with at least 5 canned/boxed food items to buy an extra raffle ticket, or we'll take donations ($5 or more) to buy an additional ticket also.  We've got some great books and software to give away this month, you won't want to miss the extra opportunities for awesome prizes, and for helping those in need.
+All proceeds and food gathered will go to Gleaner's Food Bank.
+Gleaners specifically needs (but any non-perishables will do):
+    * Beef stew, tuna and other canned meats
+    * Macaroni & Cheese and other boxed dinners
+    * Cans of soup
+    * 100% Juices
+    * Applesauce
+    * Canned vegetables
+    * Peanut butter
+    * Canned fruits
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II
+11711 North Meridian Street
+Room 150 (just past the elevators, on the right)
+Carmel, IN  46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+Check out the host of (alt)ernative web frameworks out there for .NET these days!
+http://mikehadlow.blogspot.com/2010/12/explosion-of-alternative-web-frameworks.html
+
+Speaking of alternative web frameworks... have you used sinatra (ruby) yet?
+http://www.sinatrarb.com
+
+Want to change your bluescreen of death to Christmas colors?  Let Mark Russinovich (of sysinternals fame) show you the way.
+http://blogs.technet.com/b/markrussinovich/archive/2010/12/14/3374820.aspx
+
+Sasha Goldshtein is putting together a series on writing a compiler in C#, which may be a nice segue to DSLs.
+http://blogs.microsoft.co.il/blogs/sasha/archive/tags/Compiler/default.aspx
+
+Last but not least, Gleaners' website.  Make a donation here, and get an extra raffle ticket at the meeting!
+http://www.gleaners.org
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
