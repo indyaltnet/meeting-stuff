@@ -1,0 +1,38 @@
+subject: Thursday - "Lightning Talks"
+month: October
+year: 2010
+day: 21
+topic: Lightning Talks
+speaker: Shane, Alex, Greg, others, You!
+meeting_link: http://indyalt.net/cms/meeting/october-2010/lightning-talks 
+synopsis: |
+  Lightning Talks:
+    * HTML5
+    * OAuth
+    * Google Closure
+    * Code Contracts
+    * Kanban
+    * more...
+
+  Do you have a topic you want to talk about?  Bring it, and we'll try to squeeze you in!
+   
+  Groundrules:
+    - Have Fun.
+    - You get 10 minutes.  (We'll give you a 'warning' at 9 minutes)
+    - If it takes longer than 2 minutes to get set up (war paint, projector/slides, suspenders) we'll throw rotten tomatoes at you (I'm bringing a whole cooler full, the recent frosts killed them all).
+    - Be Awesome (or un-awesome, whichever floats your boat).
+
+location_long: |
+  Meridian Mark II
+  11711 North Meridian Street
+  Room 150 (just past the elevators, on the right)
+  Caramel, IN  46032
+  http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+links:
+  - link:  http://nupack.codeplex.com/
+    title: The new-ish .NET package manager that got released recently... probably ought to know how this works, eventually.
+  - link: http://strangelights.com/blog/archive/2010/05/16/1661.aspx
+    title: Another package manager that is more than just NuPack (actually, it can use NuPack as a package source).  Written by Seb Lambla as a more complete solution.
+
+  - link: http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
+    title: Another nicely told little story by Uncle Bob about katas, TDD, and pairing.

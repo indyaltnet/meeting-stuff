@@ -1,0 +1,52 @@
+SUBJECT: Thursday - "Lightning Talks"
+***** Indy ALT.NET - October 2010 Newsletter *****
+
+** October Meeting Info **
+- Location: 
+- Date: Thursday, October 21,  2010 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: Lightning Talks
+- Speakers: Shane, Alex, Greg, others, You!
+- More information:
+http://indyalt.net/cms/meeting/october-2010/lightning-talks
+Lightning Talks:
+  * HTML5
+  * OAuth
+  * Google Closure
+  * Code Contracts
+  * Kanban
+  * more...
+
+Do you have a topic you want to talk about?  Bring it, and we'll try to squeeze you in!
+
+Groundrules:
+  - Have Fun.
+  - You get 10 minutes.  (We'll give you a 'warning' at 9 minutes)
+  - If it takes longer than 2 minutes to get set up (war paint, projector/slides, suspenders) we'll throw rotten tomatoes at you (I'm bringing a whole cooler full, the recent frosts killed them all).
+  - Be Awesome (or un-awesome, whichever floats your boat).
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+Meridian Mark II
+11711 North Meridian Street
+Room 150 (just past the elevators, on the right)
+Caramel, IN  46032
+http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+
+** Interesting Blog Posts and Other Links **
+
+The new-ish .NET package manager that got released recently... probably ought to know how this works, eventually.
+http://nupack.codeplex.com/
+
+Another package manager that is more than just NuPack (actually, it can use NuPack as a package source).  Written by Seb Lambla as a more complete solution.
+http://strangelights.com/blog/archive/2010/05/16/1661.aspx
+
+Another nicely told little story by Uncle Bob about katas, TDD, and pairing.
+http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+
