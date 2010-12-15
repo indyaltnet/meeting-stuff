@@ -1,0 +1,28 @@
+subject: Thursday (Tomorrow) - A Little Bit of Lean, With Kanban
+month: November
+year: 2010
+day: 18
+topic: A Little Bit of Lean, With Kanban
+speaker: Tim Wingfield (@timwingfield)
+meeting_link: http://indyalt.net/cms/meeting/september-2010/mongodb
+synopsis: |
+  In our industry’s continual effort to find a better way to provide software solutions, Lean software development practices are gaining some momentum.
+  Kanban is one part of Lean, and one I’ve used to provide value to my team and my clients in a very short time. I’ll share some of my experiences with Kanban, and help you generate some ideas on places you can use it
+
+  Note: Important Driving Directions!
+  If you're coming via 465 or Northbound on Meridian, you'll be well served to hop off of Meridian just North of 465 onto 103rd St (East), and then back North on Pennsylvania.  This should save you ~10-15 minutes of traffic.
+
+location_long: |
+  Meridian Mark II (room 150, just past the elevators on the right)
+  11711 N. Meridian Street - Room
+  Carmel, IN, 46032
+  http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
+links:
+  - link: http://www.drdobbs.com/architecture-and-design/228200852;jsessionid=4FAZFI5G34J5JQE1GHRSKHWATMY32JVN
+    title: Martin Fowler and Rebecca Parsons on DSL's and why you should care (a primer for next month!).
+
+  - link: http://www.infoq.com/presentations/Moving-to-Kanban 
+    title: A presentation on infoq from our speaker tonight Tim Wingfield.  If you can't make it to the meetup, get your fill from here.
+
+  - link: http://github.com/indyaltnet
+    title: Did you know we have content on github?  Meeting notes, this newsletter generator, and more.

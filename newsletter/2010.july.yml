@@ -18,11 +18,11 @@ location_long: |
   Carmel, IN, 46032
   http://maps.google.com/?q=11711+N.+Meridian+Street%2C+Carmel%2C+IN%2C+46032%2C+us+%28Meridian+Mark+II%29
 links:
-  - link: 
-    title: 
+  - link: http://www.infoq.com/presentations/poppendieck-deliberate-practice-in-software-development
+    title: Marry Poppendieck talks about deliberate practice in software development.  An excellent presentation by the sage Mary.
 
-  - link: 
-    title: 
+  - link: http://michaelfeathers.typepad.com/michael_feathers_blog/2010/07/the-bad-code-kata.html
+    title: Michael Feathers tempts us to try to write bad code, and reflect on why we can't!
 
   - link: http://blogs.agilefaqs.com/2010/06/11/mastering-tdd-with-deliberate-practice/
     title: Remember TDD from last month?  Keep going, it's worth it!
