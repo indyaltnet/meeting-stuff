@@ -1,0 +1,40 @@
+SUBJECT: Thursday - "Design Patterns Free For All"
+***** Indy ALT.NET - February 2011 Newsletter *****
+
+** February Meeting Info **
+- Location: 
+- Date: Thursday, February 17,  2011 
+- Time: Formal discussion begins at 6pm, food begins at 5:30pm, networking begins at 5:15pm.
+- Topic: Design Patterns Lightning Talks
+- Speakers: Various
+- More information:
+http://indyalt.net/cms/meeting/february-2011/design-patterns-or-anti-patterns-lightning-talks
+We all use different patterns all the time, let's talk about them together.  The idea is we'll have several different speakers, each talking about a different design pattern along with some code (mostly code).
+If you'd like to contribute, and speak about your favorite pattern, just let us know!
+Current lineup:
+  * Factory
+  * Strategy
+  * Bridge
+  * ActiveRecord vs TransactionScript
+  * Singleton and Multiton
+  * more? you!
+
+Pizza/networking starts at 5:30 or so, fishbowl starts at 6:00.
+---
+Location note:
+Use the parking garage (it's free) just south of the building.  The garage indicates it is for Palladium or Arts Center parking.  Park on either the third (covered) or fourth (open) floor.  The meeting is on the fourth... just follow the signs.
+Confused?  Check this out: http://www.sep.com/blog/2011/01/04/2011move/
+
+** Food **
+Pizza and networking will begin around 5:15 with the technology discussion beginning at 6:00.
+
+** Location **
+SEP
+4 Center Green
+Training Room (4th floor, off to the left, follow the signs)
+Carmel, IN  46032
+
+_______________________________________________
+
+You have been subscribed to this mailing because you have an account at http://IndyALT.NET or because you have provided your contact information at a previous meeting for this purpose. Please use the link at the bottom of this email to manage your subscription. You are free to unsubscribe at any time.
+

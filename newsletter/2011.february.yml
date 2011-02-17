@@ -1,0 +1,32 @@
+subject: Thursday - "Design Patterns Free For All"
+month: February
+year: 2011
+day: 17
+topic: Design Patterns Lightning Talks
+speaker: Various
+meeting_link: http://indyalt.net/cms/meeting/february-2011/design-patterns-or-anti-patterns-lightning-talks
+synopsis: |
+  We all use different patterns all the time, let's talk about them together.  The idea is we'll have several different speakers, each talking about a different design pattern along with some code (mostly code).
+  If you'd like to contribute, and speak about your favorite pattern, just let us know!
+  Current lineup:
+    * Factory
+    * Strategy
+    * Bridge
+    * ActiveRecord vs TransactionScript
+    * Singleton and Multiton
+    * more? you!
+
+  Pizza/networking starts at 5:30 or so, fishbowl starts at 6:00.
+  ---
+  Location note:
+  Use the parking garage (it's free) just south of the building.  The garage indicates it is for Palladium or Arts Center parking.  Park on either the third (covered) or fourth (open) floor.  The meeting is on the fourth... just follow the signs.
+  Confused?  Check this out: http://www.sep.com/blog/2011/01/04/2011move/
+
+location_long: |
+  SEP
+  4 Center Green
+  Training Room (4th floor, off to the left, follow the signs)
+  Carmel, IN  46032
+links:
+  - link: http://www.gleaners.org
+    title: Last but not least, Gleaners' website.  Make a donation here, and get an extra raffle ticket at the meeting!
